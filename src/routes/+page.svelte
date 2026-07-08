@@ -14,7 +14,7 @@
 		{ name: 'projects', icon: 'nf-custom-folder_github', link: '/soontm' }
 	];
 
-	let guthibProfile = 'https://github.com/YoussefDevPro';
+	let guthibProfile = 'https://github.com/Y0usaf3';
 
 	let currentYear = new Date().getFullYear();
 
